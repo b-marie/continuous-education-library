@@ -5,10 +5,10 @@ There are a lot of resources here. Way too many for one person to ever look at a
 
 How do you know when to move on to a new topic? I generally feel comfortable with a subject when I feel that I can explain it to someone that knows nothing about it. Try it, next time you're in the shower, running on a treadmill, or doing something where your mind can wander a bit. Try explaining it and see if it's something that you're comfortable with. If you were the person listening, what questions would you have at the end? Try to answer those as well. Once you feel comfortable with your explanation, move on to something else!
 
-### Table of Contents
+# Table of Contents
 
 
-## Ultimate Beginner Resources
+## Beginner Resources
 * [10 Beginner Coding Courses](http://blog.teamtreehouse.com/10-beginner-coding-courses)
 * [How to Learn Anything](https://learn-anything.xyz/)
 * [FreeCodeCamp](https://www.freecodecamp.org/)
@@ -22,9 +22,20 @@ How do you know when to move on to a new topic? I generally feel comfortable wit
 * [Coding Horror](https://blog.codinghorror.com/)
 
 ## Podcasts
+* Programming Throwdown
+* Voices of VR
+* Command Line Heroes
+* Front End Happy Hour
+* CodeNewbie
+* DevChat
+* Software Engineering Daily
+* The Bike Shed
+* Breaking into Startups
+* AWS Podcast
 
-## Technologies
 
+
+## Topics
 
 ### Machine Learning
 ##### I learn best by doing
